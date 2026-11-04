@@ -2,7 +2,7 @@
 
 Static, responsive, multi-page website for the fictional Engineering College, built with HTML5, CSS3, Bootstrap 5 and vanilla JavaScript (ES6+).
 
-**Live URL:** https://YOUR-USERNAME.github.io/midterm-engineering-college-YOURID/
+**Live URL:** https://iamnotkaidan.github.io/engineeringcollegewebsite/
 
 ## Page map
 | Page | File | Purpose |
